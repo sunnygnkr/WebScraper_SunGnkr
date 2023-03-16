@@ -1,0 +1,8 @@
+#Key things executed in this program:
+1) Displayed a initial list containing list of choices a user can select
+2) User can then select a particular index from the above list
+3) Replace the above selected index in the list with any String
+4) Function which allows user to select if he wants to continue updating the list
+   or end the program
+
+Use of range() and input() functions is mainly focused.
